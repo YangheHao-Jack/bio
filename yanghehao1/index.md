@@ -37,8 +37,9 @@ interests:
 #- Not sure we will be using this for now
 
 subgroups:
-- Christos
 - Tom
+- Christos
+
 
 # Social/Academic Networking
 social:
